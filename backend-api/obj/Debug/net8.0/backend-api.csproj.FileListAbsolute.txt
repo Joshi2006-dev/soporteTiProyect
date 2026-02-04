@@ -31,3 +31,5 @@ C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\obj\Debug\n
 C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\obj\Debug\net8.0\backend-api.pdb
 C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\obj\Debug\net8.0\backend-api.genruntimeconfig.cache
 C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\obj\Debug\net8.0\ref\backend-api.dll
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Debug\net8.0\package.json
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\obj\Debug\net8.0\backend-api.sourcelink.json

@@ -1,4 +1,4 @@
-const API_URL = "https://backendti-7y2w.onrender.com/api/servicios";
+const API_URL = "http://localhost:5000/api/servicios";
 
 export async function getServicios() {
   const response = await fetch(API_URL);
