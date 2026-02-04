@@ -1,0 +1,13 @@
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\backend-api.exe
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\package.json
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\backend-api.dll
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\backend-api.deps.json
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\backend-api.runtimeconfig.json
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\backend-api.pdb
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Universidad\DPWII\IParcial\React\proyecto1\backend-api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
