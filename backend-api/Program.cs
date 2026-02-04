@@ -9,7 +9,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReact",
-        policy => policy.WithOrigins("http://localhost:3000")
+        policy => policy.WithOrigins("https://soporte-ti-front.onrender.com")
                         .AllowAnyHeader()
                         .AllowAnyMethod());
 });
@@ -27,8 +27,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 
 
-    app.MapControllers(); // IMPORTANTE
 }
+
+app.MapControllers(); // IMPORTANTE
 
 //app.UseHttpsRedirection();
 
