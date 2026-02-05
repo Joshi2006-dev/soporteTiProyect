@@ -35,9 +35,12 @@ function ServiceCard({ servicio, onEdit }) {
             <Button onClick={() => onEdit(servicio)} color="primary" outline>
               {"Editar "} <i class="bi bi-pencil-fill"></i>
             </Button>
-            <Button color="secondary" outline className="mx-2">
+            <Link
+              to={`/servicios/${servicio.id}`}
+              className="btn btn-secondary ms-2"
+            >
               {"Ver detalle "} <i class="bi bi-info-circle-fill"></i>
-            </Button>
+            </Link>
           </CardBody>
         </Card>
       </motion.div>
