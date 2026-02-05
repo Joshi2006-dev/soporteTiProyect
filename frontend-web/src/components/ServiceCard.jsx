@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 import {
   Card,
@@ -24,8 +25,8 @@ function ServiceCard({ servicio, onEdit }) {
           data-bs-theme="dark"
         >
           <CardHeader className="bg-primary text-light d-flex justify-content-between align-items-center">
-            <span>Servicio</span>
-            <i class="bi bi-plugin"></i>{" "}
+            <span>Mueble</span>
+            <i class="bi bi-grip-horizontal"></i>{" "}
           </CardHeader>
 
           <CardBody>
@@ -33,6 +34,9 @@ function ServiceCard({ servicio, onEdit }) {
             <CardText>{servicio.descripcion}</CardText>
             <Button onClick={() => onEdit(servicio)} color="primary" outline>
               {"Editar "} <i class="bi bi-pencil-fill"></i>
+            </Button>
+            <Button color="secondary" outline className="mx-2">
+              {"Ver detalle "} <i class="bi bi-info-circle-fill"></i>
             </Button>
           </CardBody>
         </Card>
